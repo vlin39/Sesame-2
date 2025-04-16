@@ -44,14 +44,11 @@ h1 {
 
 h2 {
     font-weight: bold;
-    /* padding-bottom: 10px; */
     font-size: 200%;
 }
 
 h3 {
     font-weight: bold;
-    /* padding-top: 12px; */
-    /* padding-bottom: 0%; */
     font-size: 150%;
 }
 
@@ -59,7 +56,6 @@ h3 {
     --bs-navbar-color: rgba(255, 255, 255, 0.7) !important;
     --bs-navbar-hover-color: rgba(255, 255, 255, 0.9) !important;
     --bs-navbar-active-color: #fff !important;
-    --bs-navbar-brand-color: #fff !important;
     --bs-navbar-brand-hover-color: #fff !important;
     --bs-navbar-toggler-border-color: none !important;
 }
